@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for  .
+Main entry point for Unit.
 """
 
 from core.ideas import IdeaManager
