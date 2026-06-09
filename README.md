@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Un .
+Main entry point for  .
 """
 
 from core.ideas import IdeaManager
