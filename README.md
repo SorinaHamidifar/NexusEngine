@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Unity En.
+Main entry point for Unity .
 """
 
 from core.ideas import IdeaManager
