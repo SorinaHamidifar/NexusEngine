@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for UnityEng.
+Main entry point for UnityEngine.
 """
 
 from core.ideas import IdeaManager
