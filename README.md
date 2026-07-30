@@ -13,7 +13,7 @@ Main entry point for UnityEngine.
 
 from core.ideas import IdeaManager
 from core.experiments import ExperimentRunner
-from core.workflow import Workfl
+from core.workflow import Workflow
 
 
 def run():
