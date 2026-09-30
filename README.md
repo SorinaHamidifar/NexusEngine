@@ -1,7 +1,7 @@
 # ==========================================
 # Project: UnityEngine
 # Description:
-# A central engine connecting ideas,  
+# A central engine connecting  
 # into a unified development workflow.
 # ==========================================
 
