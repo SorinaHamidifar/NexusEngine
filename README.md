@@ -11,7 +11,7 @@
 Main entry point for UnityEngine.
 """
 
-from core.ideas import Id
+from core.ideas import IdeaM
 from core.experiments import ExperimentRunner
 from core.workflow import WorkflowEngine
 
