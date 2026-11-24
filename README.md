@@ -12,7 +12,7 @@ Main entry point for UnityEngine.
 """
 
 from core.ideas import IdeaManager
-from core.experiments import ExperimentRun
+from core.experiments import ExperimentRunners.
 from core.workflow import WorkflowEngine
 
 
